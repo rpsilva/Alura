@@ -1,0 +1,174 @@
+{
+  "categorias": [
+    {
+      "titulo": "Valiente",
+      "link": "https://pt.wikipedia.org/wiki/Valiente",
+      "cor": "#FF66FF",
+      "link_extra": {
+        "text": "Live",
+        "url": "https://www.youtube.com/watch?v=Cd8hWpmyNog"
+      },
+      "videos": [
+        {
+          "titulo": "Thalia Trajetória",
+          "url": "https://www.youtube.com/watch?v=nnKkuC0TJ4g"
+        },
+        {
+          "titulo": "No Me Acuerdo",
+          "url": "https://www.youtube.com/watch?v=iQEVguV71sI"
+        },
+        {
+          "titulo": "Lento",
+          "url": "https://www.youtube.com/watch?v=QeaJME2CVwY"
+        },
+        {
+          "titulo": "Lindo Pero Bruto",
+          "url": "https://www.youtube.com/watch?v=PjLNpTMmRZw"
+        },
+        {
+          "titulo": "Ahí",
+          "url": "https://www.youtube.com/watch?v=u25rvSIs31I"
+        },
+        {
+          "titulo": "Qué Ironía",
+          "url": "https://www.youtube.com/watch?v=3u0ksrOKiZc"
+        },
+        {
+          "titulo": "Vikingo",
+          "url": "https://www.youtube.com/watch?v=ZxpU0Z9k-Es"
+        },
+        {
+          "titulo": "Por Amor Al Arte",
+          "url": "https://www.youtube.com/watch?v=d2h47Pf0dY4"
+        }        
+      ]
+    },
+    {
+      "titulo": "Latina",
+      "cor": "#A0A0A0",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Desde Esa Noche",
+          "url": "https://www.youtube.com/watch?v=CkyBXdXkMr8"
+        },
+        {
+          "titulo": "Vuélveme a Querer",
+          "url": "https://www.youtube.com/watch?v=Cz9uyJkojEM"
+        },
+        {
+          "titulo": "Todavia Te Quiero",
+          "url": "https://www.youtube.com/watch?v=QNVWI-tST_8"
+        }
+
+      ]
+    },
+    {
+      "titulo": "Amore Mio",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Por Lo Que Reste de Vida",
+          "url": "https://www.youtube.com/watch?v=c9RXTxMx0Jo"
+        },
+        {
+          "titulo": "Como Tú No Hay Dos",
+          "url": "https://www.youtube.com/watch?v=35p6ot9zGuc"
+        },
+        {
+          "titulo": "Sólo Parecía Amor",
+          "url": "https://www.youtube.com/watch?v=1zPBLWkWuVo"
+        }
+      ]
+    },
+    {
+      "titulo": "Habitame Siempre",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
